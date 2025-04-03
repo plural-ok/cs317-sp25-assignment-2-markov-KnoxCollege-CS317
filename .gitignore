@@ -1,0 +1,5 @@
+solutions
+materials
+*.pyc
+setup/addition.py
+.DS_Store
